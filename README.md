@@ -22,7 +22,7 @@
 * └── application.properties      # Configurações comuns
  
 * 📄 Descrição dos Arquivos de Configuração
-* 
+ 
 * 🔷 application.properties - Configurações Comuns
 * Propriedades compartilhadas entre todos os microsserviços.
  
